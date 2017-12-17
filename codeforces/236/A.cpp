@@ -16,5 +16,5 @@ int main(){
         }
     }
     if (t % 2 == 0) cout << "CHAT WITH HER!";
-    else if (t % 2 == 1) cout << "IGNORE HIM!";
+    else cout << "IGNORE HIM!";
 }
