@@ -4,17 +4,17 @@ using namespace std;
 
 int main(){
     bool a[26];
-    int len, i, m = 0;
+    int len, i, t = 0;
     string n;
-    for (i = 0; i < 26; i++) a[i] = false;
+    for (i = 0; i < 26; i++) a[i] = 0;
     cin >> n;
     len = n.length();
     for (i = 0; i < len; i++){
         if (!a[(int) n[i] - 97]){
-            m++;
-            a[(int) n[i] - 97] = true;
+            t++;
+            a[(int) n[i] - 97] = 1;
         }
     }
-    if (m % 2 == 0) cout << "CHAT WITH HER!";
-    else cout << "IGNORE HIM!";
+    if (t % 2 == 0) cout << "CHAT WITH HER!";
+    else if (t % 2 == 1) cout << "IGNORE HIM!";
 }
