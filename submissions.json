@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39676519": {
+    "contest_id": 621,
+    "language": "GNU C++17",
+    "path": "codeforces\\621\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Wet Shark and Odd and Even",
+    "problem_url": "https://codeforces.com/contest/621/problem/A",
+    "submission_id": "CF39676519",
+    "submission_url": "https://codeforces.com/contest/621/submission/39676519",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/26/2018 20:18"
+  },
   "CF39676676": {
     "contest_id": 431,
     "language": "GNU C++17",
