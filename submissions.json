@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39715474": {
+    "contest_id": 1000,
+    "language": "GNU C++17",
+    "path": "codeforces\\1000\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Light It Up",
+    "problem_url": "https://codeforces.com/contest/1000/problem/B",
+    "submission_id": "CF39715474",
+    "submission_url": "https://codeforces.com/contest/1000/submission/39715474",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Jun/27/2018 22:46"
+  },
   "CF39788335": {
     "contest_id": 746,
     "language": "GNU C++17",
