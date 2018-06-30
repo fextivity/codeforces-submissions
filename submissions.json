@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39801064": {
+    "contest_id": 981,
+    "language": "GNU C++17",
+    "path": "codeforces\\981\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Useful Decomposition",
+    "problem_url": "https://codeforces.com/contest/981/problem/C",
+    "submission_id": "CF39801064",
+    "submission_url": "https://codeforces.com/contest/981/submission/39801064",
+    "tags": [
+      "implementation",
+      "trees",
+      "*1400"
+    ],
+    "timestamp": "Jun/30/2018 21:55"
+  },
   "CF39819343": {
     "contest_id": 821,
     "language": "GNU C++17",
