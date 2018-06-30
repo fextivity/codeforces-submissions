@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39790513": {
+    "contest_id": 779,
+    "language": "GNU C++17",
+    "path": "codeforces\\779\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Pupils Redistribution",
+    "problem_url": "https://codeforces.com/contest/779/problem/A",
+    "submission_id": "CF39790513",
+    "submission_url": "https://codeforces.com/contest/779/submission/39790513",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/30/2018 14:17"
+  },
   "CF39790744": {
     "contest_id": 831,
     "language": "GNU C++17",
