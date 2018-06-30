@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39789378": {
+    "contest_id": 820,
+    "language": "GNU C++17",
+    "path": "codeforces\\820\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Mister B and Book Reading",
+    "problem_url": "https://codeforces.com/contest/820/problem/A",
+    "submission_id": "CF39789378",
+    "submission_url": "https://codeforces.com/contest/820/submission/39789378",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/30/2018 13:22"
+  },
   "CF39789540": {
     "contest_id": 822,
     "language": "GNU C++17",
