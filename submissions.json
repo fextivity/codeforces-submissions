@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39800310": {
+    "contest_id": 981,
+    "language": "GNU C++17",
+    "path": "codeforces\\981\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Antipalindrome",
+    "problem_url": "https://codeforces.com/contest/981/problem/A",
+    "submission_id": "CF39800310",
+    "submission_url": "https://codeforces.com/contest/981/submission/39800310",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jun/30/2018 21:13"
+  },
   "CF39800803": {
     "contest_id": 981,
     "language": "GNU C++17",
