@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39843140": {
+    "contest_id": 998,
+    "language": "GNU C++17",
+    "path": "codeforces\\998\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Cutting",
+    "problem_url": "https://codeforces.com/contest/998/problem/B",
+    "submission_id": "CF39843140",
+    "submission_url": "https://codeforces.com/contest/998/submission/39843140",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/01/2018 22:48"
+  },
   "CF39845126": {
     "contest_id": 651,
     "language": "GNU C++17",
