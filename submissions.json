@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF39941725": {
+    "contest_id": 954,
+    "language": "GNU C++17",
+    "path": "codeforces\\954\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Matrix Walk",
+    "problem_url": "https://codeforces.com/contest/954/problem/C",
+    "submission_id": "CF39941725",
+    "submission_url": "https://codeforces.com/contest/954/submission/39941725",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/04/2018 10:57"
+  },
   "CF39941882": {
     "contest_id": 950,
     "language": "GNU C++17",
