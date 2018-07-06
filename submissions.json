@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40034376": {
+    "contest_id": 519,
+    "language": "GNU C++17",
+    "path": "codeforces\\519\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "A and B and Team Training",
+    "problem_url": "https://codeforces.com/contest/519/problem/C",
+    "submission_id": "CF40034376",
+    "submission_url": "https://codeforces.com/contest/519/submission/40034376",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jul/06/2018 22:51"
+  },
   "CF40034524": {
     "contest_id": 515,
     "language": "GNU C++17",
