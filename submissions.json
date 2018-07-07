@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40063921": {
+    "contest_id": 914,
+    "language": "GNU C++17",
+    "path": "codeforces\\914\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Conan and Agasa play a Card Game",
+    "problem_url": "https://codeforces.com/contest/914/problem/B",
+    "submission_id": "CF40063921",
+    "submission_url": "https://codeforces.com/contest/914/submission/40063921",
+    "tags": [
+      "games",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/07/2018 21:48"
+  },
   "CF40064089": {
     "contest_id": 546,
     "language": "GNU C++17",
