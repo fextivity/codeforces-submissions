@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40102429": {
+    "contest_id": 545,
+    "language": "GNU C++17",
+    "path": "codeforces\\545\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Queue",
+    "problem_url": "https://codeforces.com/contest/545/problem/D",
+    "submission_id": "CF40102429",
+    "submission_url": "https://codeforces.com/contest/545/submission/40102429",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jul/09/2018 13:18"
+  },
   "CF40103883": {
     "contest_id": 545,
     "language": "GNU C++17",
