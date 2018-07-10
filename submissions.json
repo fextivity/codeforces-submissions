@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40160471": {
+    "contest_id": 551,
+    "language": "GNU C++17",
+    "path": "codeforces\\551\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "GukiZ and Contest",
+    "problem_url": "https://codeforces.com/contest/551/problem/A",
+    "submission_id": "CF40160471",
+    "submission_url": "https://codeforces.com/contest/551/submission/40160471",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/10/2018 13:50"
+  },
   "CF40160694": {
     "contest_id": 479,
     "language": "GNU C++17",
