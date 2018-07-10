@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40160297": {
+    "contest_id": 560,
+    "language": "GNU C++17",
+    "path": "codeforces\\560\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Currency System in Geraldion",
+    "problem_url": "https://codeforces.com/contest/560/problem/A",
+    "submission_id": "CF40160297",
+    "submission_url": "https://codeforces.com/contest/560/submission/40160297",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jul/10/2018 13:45"
+  },
   "CF40160471": {
     "contest_id": 551,
     "language": "GNU C++17",
