@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40193243": {
+    "contest_id": 706,
+    "language": "GNU C++17",
+    "path": "codeforces\\706\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Beru-taxi",
+    "problem_url": "https://codeforces.com/contest/706/problem/A",
+    "submission_id": "CF40193243",
+    "submission_url": "https://codeforces.com/contest/706/submission/40193243",
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/11/2018 14:44"
+  },
   "CF40193460": {
     "contest_id": 580,
     "language": "GNU C++17",
