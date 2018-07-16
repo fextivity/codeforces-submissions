@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40399947": {
+    "contest_id": 792,
+    "language": "GNU C++17",
+    "path": "codeforces\\792\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "New Bus Route",
+    "problem_url": "https://codeforces.com/contest/792/problem/A",
+    "submission_id": "CF40399947",
+    "submission_url": "https://codeforces.com/contest/792/submission/40399947",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jul/16/2018 14:11"
+  },
   "CF40400550": {
     "contest_id": 792,
     "language": "GNU C++17",
