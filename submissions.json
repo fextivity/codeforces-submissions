@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40747923": {
+    "contest_id": 696,
+    "language": "GNU C++17",
+    "path": "codeforces\\696\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "...Wait for it...",
+    "problem_url": "https://codeforces.com/contest/696/problem/E",
+    "submission_id": "CF40747923",
+    "submission_url": "https://codeforces.com/contest/696/submission/40747923",
+    "tags": [
+      "data structures",
+      "dsu",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "Jul/25/2018 22:48"
+  },
   "CF40748057": {
     "contest_id": 233,
     "language": "GNU C++17",
