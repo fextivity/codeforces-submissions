@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40759449": {
+    "contest_id": 733,
+    "language": "GNU C++17",
+    "path": "codeforces\\733\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Parade",
+    "problem_url": "https://codeforces.com/contest/733/problem/B",
+    "submission_id": "CF40759449",
+    "submission_url": "https://codeforces.com/contest/733/submission/40759449",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jul/26/2018 09:26"
+  },
   "CF40759652": {
     "contest_id": 680,
     "language": "GNU C++17",
