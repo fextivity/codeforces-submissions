@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40805099": {
+    "contest_id": 1011,
+    "language": "GNU C++17",
+    "path": "codeforces\\1011\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Rocket",
+    "problem_url": "https://codeforces.com/contest/1011/problem/D",
+    "submission_id": "CF40805099",
+    "submission_url": "https://codeforces.com/contest/1011/submission/40805099",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1800"
+    ],
+    "timestamp": "Jul/26/2018 23:35"
+  },
   "CF40827404": {
     "contest_id": 721,
     "language": "GNU C++17",
