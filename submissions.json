@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40891127": {
+    "contest_id": 580,
+    "language": "GNU C++17",
+    "path": "codeforces\\580\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Kefa and Company",
+    "problem_url": "https://codeforces.com/contest/580/problem/B",
+    "submission_id": "CF40891127",
+    "submission_url": "https://codeforces.com/contest/580/submission/40891127",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jul/28/2018 23:03"
+  },
   "CF40891318": {
     "contest_id": 538,
     "language": "GNU C++17",
