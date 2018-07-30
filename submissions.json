@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40939296": {
+    "contest_id": 814,
+    "language": "GNU C++17",
+    "path": "codeforces\\814\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "An abandoned sentiment from past",
+    "problem_url": "https://codeforces.com/contest/814/problem/A",
+    "submission_id": "CF40939296",
+    "submission_url": "https://codeforces.com/contest/814/submission/40939296",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/30/2018 14:59"
+  },
   "CF40947738": {
     "contest_id": 1013,
     "language": "GNU C++17",
