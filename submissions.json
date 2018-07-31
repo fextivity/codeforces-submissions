@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF40999040": {
+    "contest_id": 779,
+    "language": "GNU C++17",
+    "path": "codeforces\\779\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Weird Rounding",
+    "problem_url": "https://codeforces.com/contest/779/problem/B",
+    "submission_id": "CF40999040",
+    "submission_url": "https://codeforces.com/contest/779/submission/40999040",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Jul/31/2018 13:06"
+  },
   "CF41078780": {
     "contest_id": 353,
     "language": "GNU C++17",
