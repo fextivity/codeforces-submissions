@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF41159425": {
+    "contest_id": 1015,
+    "language": "GNU C++17",
+    "path": "codeforces\\1015\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Points in Segments",
+    "problem_url": "https://codeforces.com/contest/1015/problem/A",
+    "submission_id": "CF41159425",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41159425",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/03/2018 21:17"
+  },
   "CF41159439": {
     "contest_id": 1015,
     "language": "GNU C++17",
