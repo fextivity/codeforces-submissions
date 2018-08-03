@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF41159514": {
+    "contest_id": 1015,
+    "language": "GNU C++17",
+    "path": "codeforces\\1015\\E2.cpp",
+    "problem_index": "E2",
+    "problem_name": "Stars Drawing (Hard Edition)",
+    "problem_url": "https://codeforces.com/contest/1015/problem/E2",
+    "submission_id": "CF41159514",
+    "submission_url": "https://codeforces.com/contest/1015/submission/41159514",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Aug/03/2018 21:20"
+  },
   "CF41160194": {
     "contest_id": 1016,
     "language": "GNU C++17",
