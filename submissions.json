@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF41467851": {
+    "contest_id": 435,
+    "language": "GNU C++17",
+    "path": "codeforces\\435\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Queue on Bus Stop",
+    "problem_url": "https://codeforces.com/contest/435/problem/A",
+    "submission_id": "CF41467851",
+    "submission_url": "https://codeforces.com/contest/435/submission/41467851",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/11/2018 19:00"
+  },
   "CF41479138": {
     "contest_id": 1020,
     "language": "GNU C++17",
