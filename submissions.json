@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF41512190": {
+    "contest_id": 958,
+    "language": "GNU C++17",
+    "path": "codeforces\\958\\D1.cpp",
+    "problem_index": "D1",
+    "problem_name": "Hyperspace Jump (easy)",
+    "problem_url": "https://codeforces.com/contest/958/problem/D1",
+    "submission_id": "CF41512190",
+    "submission_url": "https://codeforces.com/contest/958/submission/41512190",
+    "tags": [
+      "expression parsing",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Aug/12/2018 10:09"
+  },
   "CF41512449": {
     "contest_id": 958,
     "language": "GNU C++17",
