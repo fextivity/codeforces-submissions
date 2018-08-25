@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF42083765": {
+    "contest_id": 630,
+    "language": "GNU C++17",
+    "path": "codeforces\\630\\H.cpp",
+    "problem_index": "H",
+    "problem_name": "Benches",
+    "problem_url": "https://codeforces.com/contest/630/problem/H",
+    "submission_id": "CF42083765",
+    "submission_url": "https://codeforces.com/contest/630/submission/42083765",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Aug/25/2018 16:36"
+  },
   "CF42083815": {
     "contest_id": 630,
     "language": "GNU C++17",
