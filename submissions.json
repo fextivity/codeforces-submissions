@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF42082676": {
+    "contest_id": 714,
+    "language": "GNU C++17",
+    "path": "codeforces\\714\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Filya and Homework",
+    "problem_url": "https://codeforces.com/contest/714/problem/B",
+    "submission_id": "CF42082676",
+    "submission_url": "https://codeforces.com/contest/714/submission/42082676",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Aug/25/2018 16:04"
+  },
   "CF42082984": {
     "contest_id": 630,
     "language": "GNU C++17",
