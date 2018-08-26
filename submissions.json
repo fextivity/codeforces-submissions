@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF42124519": {
+    "contest_id": 707,
+    "language": "GNU C++17",
+    "path": "codeforces\\707\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Bakery",
+    "problem_url": "https://codeforces.com/contest/707/problem/B",
+    "submission_id": "CF42124519",
+    "submission_url": "https://codeforces.com/contest/707/submission/42124519",
+    "tags": [
+      "graphs",
+      "*1300"
+    ],
+    "timestamp": "Aug/26/2018 21:19"
+  },
   "CF42124978": {
     "contest_id": 465,
     "language": "GNU C++17",
