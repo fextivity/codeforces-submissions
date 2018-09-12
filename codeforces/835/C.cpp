@@ -17,8 +17,6 @@ void init(){
 }
 
 int main(){
-    ios_base::sync_with_stdio(0);
-    cin.tie(0); cout.tie(0);
     memset(cnt, 0, sizeof(cnt));
     memset(dp, 0, sizeof(dp));
     cin >> n >> q >> c;
