@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF42886951": {
+    "contest_id": 515,
+    "language": "FPC",
+    "path": "codeforces\\515\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Drazil and Date",
+    "problem_url": "https://codeforces.com/contest/515/problem/A",
+    "submission_id": "CF42886951",
+    "submission_url": "https://codeforces.com/contest/515/submission/42886951",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/15/2018 17:31"
+  },
   "CF42887019": {
     "contest_id": 4,
     "language": "GNU C++17",
