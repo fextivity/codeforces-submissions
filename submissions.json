@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF43295240": {
+    "contest_id": 1058,
+    "language": "GNU C++17",
+    "path": "codeforces\\1058\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1058/problem/A",
+    "submission_id": "CF43295240",
+    "submission_url": "https://codeforces.com/contest/1058/submission/43295240",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2018 20:05"
+  },
   "CF43300963": {
     "contest_id": 1058,
     "language": "GNU C++17",
