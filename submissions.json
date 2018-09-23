@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF43307744": {
+    "contest_id": 1058,
+    "language": "GNU C++17",
+    "path": "codeforces\\1058\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Vasya and Golden Ticket",
+    "problem_url": "https://codeforces.com/contest/1058/problem/C",
+    "submission_id": "CF43307744",
+    "submission_url": "https://codeforces.com/contest/1058/submission/43307744",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Sep/23/2018 20:31"
+  },
   "CF43317787": {
     "contest_id": 1058,
     "language": "GNU C++17",
