@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF44337278": {
+    "contest_id": 1057,
+    "language": "GNU C++17",
+    "path": "codeforces\\1057\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Bmail Computer Network",
+    "problem_url": "https://codeforces.com/contest/1057/problem/A",
+    "submission_id": "CF44337278",
+    "submission_url": "https://codeforces.com/contest/1057/submission/44337278",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "trees",
+      "*900"
+    ],
+    "timestamp": "Oct/15/2018 06:02"
+  },
   "CF44337423": {
     "contest_id": 1057,
     "language": "GNU C++17",
