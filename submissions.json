@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF44958697": {
+    "contest_id": 712,
+    "language": "GNU C++17",
+    "path": "codeforces\\712\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Memory and De-Evolution",
+    "problem_url": "https://codeforces.com/contest/712/problem/C",
+    "submission_id": "CF44958697",
+    "submission_url": "https://codeforces.com/contest/712/submission/44958697",
+    "tags": [
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/27/2018 22:18"
+  },
   "CF45102888": {
     "contest_id": 708,
     "language": "GNU C++17",
