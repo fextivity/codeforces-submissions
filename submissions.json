@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF45117398": {
+    "contest_id": 932,
+    "language": "GNU C++17",
+    "path": "codeforces\\932\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Palindromic Supersequence",
+    "problem_url": "https://codeforces.com/contest/932/problem/A",
+    "submission_id": "CF45117398",
+    "submission_url": "https://codeforces.com/contest/932/submission/45117398",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Oct/31/2018 06:03"
+  },
   "CF45134082": {
     "contest_id": 867,
     "language": "GNU C++17",
