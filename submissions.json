@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF45392464": {
+    "contest_id": 1065,
+    "language": "GNU C++17",
+    "path": "codeforces\\1065\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Three Pieces",
+    "problem_url": "https://codeforces.com/contest/1065/problem/D",
+    "submission_id": "CF45392464",
+    "submission_url": "https://codeforces.com/contest/1065/submission/45392464",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Nov/07/2018 06:20"
+  },
   "CF45392550": {
     "contest_id": 851,
     "language": "GNU C++17",
