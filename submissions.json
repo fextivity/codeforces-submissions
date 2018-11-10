@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF45507377": {
+    "contest_id": 181,
+    "language": "GNU C++17",
+    "path": "codeforces\\181\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Series of Crimes",
+    "problem_url": "https://codeforces.com/contest/181/problem/A",
+    "submission_id": "CF45507377",
+    "submission_url": "https://codeforces.com/contest/181/submission/45507377",
+    "tags": [
+      "brute force",
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/10/2018 18:19"
+  },
   "CF45514746": {
     "contest_id": 1055,
     "language": "GNU C++17",
