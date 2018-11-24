@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF46145265": {
+    "contest_id": 1080,
+    "language": "GNU C++17",
+    "path": "codeforces\\1080\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Petya and Origami",
+    "problem_url": "https://codeforces.com/contest/1080/problem/A",
+    "submission_id": "CF46145265",
+    "submission_url": "https://codeforces.com/contest/1080/submission/46145265",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2018 14:37"
+  },
   "CF46146648": {
     "contest_id": 1080,
     "language": "GNU C++17",
