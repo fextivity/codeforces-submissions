@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF46167002": {
+    "contest_id": 248,
+    "language": "GNU C++17",
+    "path": "codeforces\\248\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Cupboards",
+    "problem_url": "https://codeforces.com/contest/248/problem/A",
+    "submission_id": "CF46167002",
+    "submission_url": "https://codeforces.com/contest/248/submission/46167002",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2018 17:40"
+  },
   "CF46253225": {
     "contest_id": 1075,
     "language": "GNU C++17",
