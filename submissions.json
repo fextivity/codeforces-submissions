@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF46166428": {
+    "contest_id": 765,
+    "language": "GNU C++17",
+    "path": "codeforces\\765\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Neverending competitions",
+    "problem_url": "https://codeforces.com/contest/765/problem/A",
+    "submission_id": "CF46166428",
+    "submission_url": "https://codeforces.com/contest/765/submission/46166428",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/24/2018 17:12"
+  },
   "CF46166891": {
     "contest_id": 447,
     "language": "GNU C++17",
