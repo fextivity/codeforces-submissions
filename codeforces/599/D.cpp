@@ -9,8 +9,20 @@ using namespace std;
 #define fi first
 #define se second
 #define endl '\n'
-#define Ptest(x) return cout << x << endl, 0;
+#define For(i, a, b) for (int i = a; i < b; i++)
+#define ForE(i, a, b) for (int i = a; i <= b; i++)
+#define Ford(i, a, b) for (int i = a; i > b; i--)
+#define FordE(i, a, b) for (int i = a; i >= b; i--)
+#define Fora(i, a) for (auto i : a)
 
+#define PrintV(x) for (int i = 0; i < x.size(); i++) cout << x[i] << ' ';
+#define PrintVl(x) for (int i = 0; i < x.size(); i++) cout << x[i] << endl;
+#define Ptest(x) return cout << x << endl, 0;
+#define isvowel(x) (x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u' || x == 'y')
+#define gl(x) getline(cin, x)
+
+#define pque priority_queue
+#define mts multiset
 typedef vector <int> vi;
 typedef pair <int, int> ii;
 typedef vector <vi > vvi;
@@ -29,30 +41,30 @@ signed main(){
         if ((6 * x) % (i * (i + 1))){
             continue;
         }
-        int a = (6 * x) / (i * (i + 1));
+        long long a = (6 * x) / (i * (i + 1));
         a = a + i - 1;
         if (a % 3){
-            continue;
-        }
+			continue;
+		}
         if (i > a / 3){
-            break;
-        }
-        b.pb({i, a / 3});
+			break;
+		}
+        b.pb(mp(i, a / 3));
     }
     if (b[b.size() - 1].fi == b[b.size() - 1].se){
-        cout << 2 * b.size() - 1 << endl;
-    }
+		cout << 2 * b.size() - 1 << endl;
+	}
     else{
-        cout << 2 * b.size() << endl;
+		cout << 2 * b.size() << endl;
+	}
+    For(i, 0, b.size()){
+        if (b[i].first == b[i].second){
+			continue;
+		}
+        cout << b[i].first << ' ' << b[i].second << endl;
     }
-    for (int i = 0; i < b.size(); i++){
-        if (b[i].fi == b[i].se){
-            continue;
-        }
-        cout << b[i].fi << " " << b[i].se << endl;
-    }
-    for (int i = b.size() - 1; i >= 0; i--){
-        cout << b[i].se << " " << b[i].fi << endl;
+	FordE(i, b.size() - 1, 0){
+        cout << b[i].second << " " << b[i].first << endl;
     }
 }
 
@@ -60,12 +72,32 @@ signed main(){
 ----------------------------------+
 INPUT:                            |
 ==============================    |
-
+26
+==============================    |
+2
+==============================    |
+8
 ==============================    |
 ----------------------------------+
 OUTPUT:                           |
 ==============================    |
-
+6
+1 26
+2 9
+3 5
+5 3
+9 2
+26 1
+==============================    |
+2
+1 2
+2 1
+==============================    |
+4
+1 8
+2 3
+3 2
+8 1
 ==============================    |
 ----------------------------------+
 */
