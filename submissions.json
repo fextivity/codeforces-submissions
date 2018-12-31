@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF47786723": {
+    "contest_id": 1095,
+    "language": "GNU C++17",
+    "path": "codeforces\\1095\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Repeating Cipher",
+    "problem_url": "https://codeforces.com/contest/1095/problem/A",
+    "submission_id": "CF47786723",
+    "submission_url": "https://codeforces.com/contest/1095/submission/47786723",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/31/2018 18:08"
+  },
   "CF47788382": {
     "contest_id": 1093,
     "language": "GNU C++17",
