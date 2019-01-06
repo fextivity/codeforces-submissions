@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF48030763": {
+    "contest_id": 48,
+    "language": "GNU C++17",
+    "path": "codeforces\\48\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Rock-paper-scissors",
+    "problem_url": "https://codeforces.com/contest/48/problem/A",
+    "submission_id": "CF48030763",
+    "submission_url": "https://codeforces.com/contest/48/submission/48030763",
+    "tags": [
+      "implementation",
+      "schedules",
+      "*900"
+    ],
+    "timestamp": "Jan/06/2019 19:15"
+  },
   "CF48031051": {
     "contest_id": 1077,
     "language": "GNU C++17",
