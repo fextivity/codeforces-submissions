@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF48059872": {
+    "contest_id": 724,
+    "language": "GNU C++17",
+    "path": "codeforces\\724\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Checking the Calendar",
+    "problem_url": "https://codeforces.com/contest/724/problem/A",
+    "submission_id": "CF48059872",
+    "submission_url": "https://codeforces.com/contest/724/submission/48059872",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jan/07/2019 21:31"
+  },
   "CF48060005": {
     "contest_id": 246,
     "language": "GNU C++17",
