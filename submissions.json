@@ -457,6 +457,20 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF48059669": {
+    "contest_id": 886,
+    "language": "GNU C++17",
+    "path": "codeforces\\886\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Vlad and Cafes",
+    "problem_url": "https://codeforces.com/contest/886/problem/B",
+    "submission_id": "CF48059669",
+    "submission_url": "https://codeforces.com/contest/886/submission/48059669",
+    "tags": [
+      "*1000"
+    ],
+    "timestamp": "Jan/07/2019 21:23"
+  },
   "CF48059872": {
     "contest_id": 724,
     "language": "GNU C++17",
