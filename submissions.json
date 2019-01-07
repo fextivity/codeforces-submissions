@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF48060005": {
+    "contest_id": 246,
+    "language": "GNU C++17",
+    "path": "codeforces\\246\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Buggy Sorting",
+    "problem_url": "https://codeforces.com/contest/246/problem/A",
+    "submission_id": "CF48060005",
+    "submission_url": "https://codeforces.com/contest/246/submission/48060005",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jan/07/2019 21:35"
+  },
   "CF48060261": {
     "contest_id": 94,
     "language": "GNU C++17",
