@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF48092671": {
+    "contest_id": 868,
+    "language": "GNU C++17",
+    "path": "codeforces\\868\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Bark to Unlock",
+    "problem_url": "https://codeforces.com/contest/868/problem/A",
+    "submission_id": "CF48092671",
+    "submission_url": "https://codeforces.com/contest/868/submission/48092671",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jan/08/2019 21:44"
+  },
   "CF53460906": {
     "contest_id": 137,
     "language": "GNU C++17",
