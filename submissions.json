@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53461212": {
+    "contest_id": 194,
+    "language": "GNU C++17",
+    "path": "codeforces\\194\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/194/problem/A",
+    "submission_id": "CF53461212",
+    "submission_url": "https://codeforces.com/contest/194/submission/53461212",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/28/2019 14:21"
+  },
   "CF53464239": {
     "contest_id": 234,
     "language": "GNU C++17",
