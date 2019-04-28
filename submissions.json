@@ -457,6 +457,25 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53467002": {
+    "contest_id": 755,
+    "language": "GNU C++17",
+    "path": "codeforces\\755\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "PolandBall and Forest",
+    "problem_url": "https://codeforces.com/contest/755/problem/C",
+    "submission_id": "CF53467002",
+    "submission_url": "https://codeforces.com/contest/755/submission/53467002",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "interactive",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Apr/28/2019 17:41"
+  },
   "CF53467735": {
     "contest_id": 886,
     "language": "GNU C++17",
