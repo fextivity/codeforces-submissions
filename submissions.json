@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53467735": {
+    "contest_id": 886,
+    "language": "GNU C++17",
+    "path": "codeforces\\886\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Petya and Catacombs",
+    "problem_url": "https://codeforces.com/contest/886/problem/C",
+    "submission_id": "CF53467735",
+    "submission_url": "https://codeforces.com/contest/886/submission/53467735",
+    "tags": [
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Apr/28/2019 18:05"
+  },
   "CF53542193": {
     "contest_id": 29,
     "language": "GNU C++17",
