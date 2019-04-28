@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53460906": {
+    "contest_id": 137,
+    "language": "GNU C++17",
+    "path": "codeforces\\137\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Postcards and photos",
+    "problem_url": "https://codeforces.com/contest/137/problem/A",
+    "submission_id": "CF53460906",
+    "submission_url": "https://codeforces.com/contest/137/submission/53460906",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Apr/28/2019 14:10"
+  },
   "CF53461212": {
     "contest_id": 194,
     "language": "GNU C++17",
