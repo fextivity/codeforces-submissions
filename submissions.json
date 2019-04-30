@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53564317": {
+    "contest_id": 412,
+    "language": "GNU C++17",
+    "path": "codeforces\\412\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Network Configuration",
+    "problem_url": "https://codeforces.com/contest/412/problem/B",
+    "submission_id": "CF53564317",
+    "submission_url": "https://codeforces.com/contest/412/submission/53564317",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/30/2019 18:34"
+  },
   "CF53564379": {
     "contest_id": 440,
     "language": "GNU C++17",
