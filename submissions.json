@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53653367": {
+    "contest_id": 980,
+    "language": "GNU C++17",
+    "path": "codeforces\\980\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "The Number Games",
+    "problem_url": "https://codeforces.com/contest/980/problem/E",
+    "submission_id": "CF53653367",
+    "submission_url": "https://codeforces.com/contest/980/submission/53653367",
+    "tags": [
+      "data structures",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/02/2019 10:00"
+  },
   "CF53698372": {
     "contest_id": 1065,
     "language": "GNU C++17",
