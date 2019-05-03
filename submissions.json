@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF53698372": {
+    "contest_id": 1065,
+    "language": "GNU C++17",
+    "path": "codeforces\\1065\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Side Transmutations",
+    "problem_url": "https://codeforces.com/contest/1065/problem/E",
+    "submission_id": "CF53698372",
+    "submission_url": "https://codeforces.com/contest/1065/submission/53698372",
+    "tags": [
+      "combinatorics",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "May/03/2019 15:55"
+  },
   "CF53742781": {
     "contest_id": 1140,
     "language": "GNU C++17",
