@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54165930": {
+    "contest_id": 793,
+    "language": "GNU C++17",
+    "path": "codeforces\\793\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Oleg and shares",
+    "problem_url": "https://codeforces.com/contest/793/problem/A",
+    "submission_id": "CF54165930",
+    "submission_url": "https://codeforces.com/contest/793/submission/54165930",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/15/2019 15:42"
+  },
   "CF54389093": {
     "contest_id": 888,
     "language": "GNU C++17",
