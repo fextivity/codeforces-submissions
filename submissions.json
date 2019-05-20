@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54406528": {
+    "contest_id": 592,
+    "language": "GNU C++17",
+    "path": "codeforces\\592\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Super M",
+    "problem_url": "https://codeforces.com/contest/592/problem/D",
+    "submission_id": "CF54406528",
+    "submission_url": "https://codeforces.com/contest/592/submission/54406528",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/20/2019 13:44"
+  },
   "CF54407152": {
     "contest_id": 768,
     "language": "GNU C++17",
