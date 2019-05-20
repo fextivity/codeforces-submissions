@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54403329": {
+    "contest_id": 291,
+    "language": "GNU C++17",
+    "path": "codeforces\\291\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Spyke Talks",
+    "problem_url": "https://codeforces.com/contest/291/problem/A",
+    "submission_id": "CF54403329",
+    "submission_url": "https://codeforces.com/contest/291/submission/54403329",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/20/2019 10:32"
+  },
   "CF54405670": {
     "contest_id": 1114,
     "language": "GNU C++17",
