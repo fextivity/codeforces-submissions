@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54563253": {
+    "contest_id": 1171,
+    "language": "Kotlin",
+    "path": "codeforces\\1171\\A.kt",
+    "problem_index": "A",
+    "problem_name": "Dice Rolling",
+    "problem_url": "https://codeforces.com/contest/1171/problem/A",
+    "submission_id": "CF54563253",
+    "submission_url": "https://codeforces.com/contest/1171/submission/54563253",
+    "tags": [
+      "*special problem",
+      "*800"
+    ],
+    "timestamp": "May/24/2019 22:01"
+  },
   "CF54563292": {
     "contest_id": 1171,
     "language": "Kotlin",
