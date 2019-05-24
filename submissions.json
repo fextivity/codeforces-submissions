@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54563402": {
+    "contest_id": 1171,
+    "language": "Kotlin",
+    "path": "codeforces\\1171\\E.kt",
+    "problem_index": "E",
+    "problem_name": "Doggo Recoloring",
+    "problem_url": "https://codeforces.com/contest/1171/problem/E",
+    "submission_id": "CF54563402",
+    "submission_url": "https://codeforces.com/contest/1171/submission/54563402",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/24/2019 22:05"
+  },
   "CF54563422": {
     "contest_id": 1171,
     "language": "Kotlin",
