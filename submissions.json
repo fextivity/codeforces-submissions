@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54563373": {
+    "contest_id": 1171,
+    "language": "Kotlin",
+    "path": "codeforces\\1171\\D.kt",
+    "problem_index": "D",
+    "problem_name": "Got Any Grapes?",
+    "problem_url": "https://codeforces.com/contest/1171/problem/D",
+    "submission_id": "CF54563373",
+    "submission_url": "https://codeforces.com/contest/1171/submission/54563373",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2019 22:04"
+  },
   "CF54563402": {
     "contest_id": 1171,
     "language": "Kotlin",
