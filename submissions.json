@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54563292": {
+    "contest_id": 1171,
+    "language": "Kotlin",
+    "path": "codeforces\\1171\\B.kt",
+    "problem_index": "B",
+    "problem_name": "New Year and the Christmas Ornament",
+    "problem_url": "https://codeforces.com/contest/1171/problem/B",
+    "submission_id": "CF54563292",
+    "submission_url": "https://codeforces.com/contest/1171/submission/54563292",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/24/2019 22:02"
+  },
   "CF54563342": {
     "contest_id": 1171,
     "language": "Kotlin",
