@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54591756": {
+    "contest_id": 1147,
+    "language": "GNU C++17",
+    "path": "codeforces\\1147\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Chladni Figure",
+    "problem_url": "https://codeforces.com/contest/1147/problem/B",
+    "submission_id": "CF54591756",
+    "submission_url": "https://codeforces.com/contest/1147/submission/54591756",
+    "tags": [
+      "brute force",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/25/2019 15:55"
+  },
   "CF54604688": {
     "contest_id": 1166,
     "language": "GNU C++17",
