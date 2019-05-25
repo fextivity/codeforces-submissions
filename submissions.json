@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54608040": {
+    "contest_id": 343,
+    "language": "GNU C++17",
+    "path": "codeforces\\343\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Rational Resistance",
+    "problem_url": "https://codeforces.com/contest/343/problem/A",
+    "submission_id": "CF54608040",
+    "submission_url": "https://codeforces.com/contest/343/submission/54608040",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/25/2019 17:04"
+  },
   "CF54633336": {
     "contest_id": 1056,
     "language": "GNU C++17",
