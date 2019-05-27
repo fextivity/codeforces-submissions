@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54708213": {
+    "contest_id": 1169,
+    "language": "GNU C++17",
+    "path": "codeforces\\1169\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Circle Metro",
+    "problem_url": "https://codeforces.com/contest/1169/problem/A",
+    "submission_id": "CF54708213",
+    "submission_url": "https://codeforces.com/contest/1169/submission/54708213",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/27/2019 13:22"
+  },
   "CF54783745": {
     "contest_id": 490,
     "language": "GNU C++17",
