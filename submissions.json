@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54783745": {
+    "contest_id": 490,
+    "language": "GNU C++17",
+    "path": "codeforces\\490\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Restoring Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/490/problem/E",
+    "submission_id": "CF54783745",
+    "submission_url": "https://codeforces.com/contest/490/submission/54783745",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/29/2019 08:42"
+  },
   "CF54827025": {
     "contest_id": 264,
     "language": "GNU C++17",
