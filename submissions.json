@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF54903837": {
+    "contest_id": 1177,
+    "language": "GNU C++17",
+    "path": "codeforces\\1177\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Digits Sequence (Hard Edition)",
+    "problem_url": "https://codeforces.com/contest/1177/problem/B",
+    "submission_id": "CF54903837",
+    "submission_url": "https://codeforces.com/contest/1177/submission/54903837",
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Jun/01/2019 14:55"
+  },
   "CF54903856": {
     "contest_id": 1177,
     "language": "GNU C++17",
