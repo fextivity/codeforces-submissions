@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF55568890": {
+    "contest_id": 448,
+    "language": "GNU C++17",
+    "path": "codeforces\\448\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Suffix Structures",
+    "problem_url": "https://codeforces.com/contest/448/problem/B",
+    "submission_id": "CF55568890",
+    "submission_url": "https://codeforces.com/contest/448/submission/55568890",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Jun/15/2019 00:18"
+  },
   "CF55665730": {
     "contest_id": 682,
     "language": "GNU C++17",
