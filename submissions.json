@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF55704608": {
+    "contest_id": 1093,
+    "language": "GNU C++17",
+    "path": "codeforces\\1093\\G.cpp",
+    "problem_index": "G",
+    "problem_name": "Multidimensional Queries",
+    "problem_url": "https://codeforces.com/contest/1093/problem/G",
+    "submission_id": "CF55704608",
+    "submission_url": "https://codeforces.com/contest/1093/submission/55704608",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "Jun/18/2019 13:53"
+  },
   "CF55739061": {
     "contest_id": 598,
     "language": "GNU C++17",
