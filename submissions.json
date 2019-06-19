@@ -457,6 +457,24 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF55741359": {
+    "contest_id": 825,
+    "language": "GNU C++17",
+    "path": "codeforces\\825\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Minimal Labels",
+    "problem_url": "https://codeforces.com/contest/825/problem/E",
+    "submission_id": "CF55741359",
+    "submission_url": "https://codeforces.com/contest/825/submission/55741359",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Jun/19/2019 14:36"
+  },
   "CF55754919": {
     "contest_id": 1185,
     "language": "GNU C++17",
