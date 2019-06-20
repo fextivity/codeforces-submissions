@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF55815981": {
+    "contest_id": 626,
+    "language": "GNU C++17",
+    "path": "codeforces\\626\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Simple Skewness",
+    "problem_url": "https://codeforces.com/contest/626/problem/E",
+    "submission_id": "CF55815981",
+    "submission_url": "https://codeforces.com/contest/626/submission/55815981",
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search",
+      "*2400"
+    ],
+    "timestamp": "Jun/20/2019 13:29"
+  },
   "CF55934455": {
     "contest_id": 1180,
     "language": "GNU C++17",
