@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF55936984": {
+    "contest_id": 366,
+    "language": "GNU C++17",
+    "path": "codeforces\\366\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Dima and Guards",
+    "problem_url": "https://codeforces.com/contest/366/problem/A",
+    "submission_id": "CF55936984",
+    "submission_url": "https://codeforces.com/contest/366/submission/55936984",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/22/2019 21:27"
+  },
   "CF55937192": {
     "contest_id": 245,
     "language": "GNU C++17",
