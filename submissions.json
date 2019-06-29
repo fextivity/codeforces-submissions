@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF56253689": {
+    "contest_id": 1165,
+    "language": "GNU C++17",
+    "path": "codeforces\\1165\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Good String",
+    "problem_url": "https://codeforces.com/contest/1165/problem/C",
+    "submission_id": "CF56253689",
+    "submission_url": "https://codeforces.com/contest/1165/submission/56253689",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Jun/29/2019 12:08"
+  },
   "CF56253708": {
     "contest_id": 1165,
     "language": "GNU C++17",
