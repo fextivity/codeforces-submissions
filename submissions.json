@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF56380865": {
+    "contest_id": 611,
+    "language": "GNU C++17",
+    "path": "codeforces\\611\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "New Year and Old Property",
+    "problem_url": "https://codeforces.com/contest/611/problem/B",
+    "submission_id": "CF56380865",
+    "submission_url": "https://codeforces.com/contest/611/submission/56380865",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jul/01/2019 15:25"
+  },
   "CF56415576": {
     "contest_id": 958,
     "language": "GNU C++17",
