@@ -457,6 +457,25 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF56415576": {
+    "contest_id": 958,
+    "language": "GNU C++17",
+    "path": "codeforces\\958\\B2.cpp",
+    "problem_index": "B2",
+    "problem_name": "Maximum Control (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/B2",
+    "submission_id": "CF56415576",
+    "submission_url": "https://codeforces.com/contest/958/submission/56415576",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Jul/02/2019 11:19"
+  },
   "CF56501501": {
     "contest_id": 729,
     "language": "GNU C++17",
