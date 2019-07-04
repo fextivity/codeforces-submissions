@@ -457,6 +457,25 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF56501501": {
+    "contest_id": 729,
+    "language": "GNU C++17",
+    "path": "codeforces\\729\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Subordinates",
+    "problem_url": "https://codeforces.com/contest/729/problem/E",
+    "submission_id": "CF56501501",
+    "submission_url": "https://codeforces.com/contest/729/submission/56501501",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jul/04/2019 13:33"
+  },
   "CF56504419": {
     "contest_id": 665,
     "language": "GNU C++17",
