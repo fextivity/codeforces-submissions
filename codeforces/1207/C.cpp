@@ -92,7 +92,7 @@ signed main(){
         ForE(i, 1, n){
             ForE(j, 1, 4){
                 dp[i][j] = inf;
-                if (s[i] == '1' && j != 4){
+                if (s[i] == 1 && j != 4){
                     //cout << dp[i][j] << ' ';
                     continue;
                 }
