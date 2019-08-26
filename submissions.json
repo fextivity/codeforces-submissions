@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF59546932": {
+    "contest_id": 1197,
+    "language": "GNU C++17",
+    "path": "codeforces\\1197\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Array Splitting",
+    "problem_url": "https://codeforces.com/contest/1197/problem/C",
+    "submission_id": "CF59546932",
+    "submission_url": "https://codeforces.com/contest/1197/submission/59546932",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Aug/27/2019 05:54"
+  },
   "CF59594021": {
     "contest_id": 847,
     "language": "GNU C++17",
