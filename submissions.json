@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF59594021": {
+    "contest_id": 847,
+    "language": "GNU C++17",
+    "path": "codeforces\\847\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Sum of Nestings",
+    "problem_url": "https://codeforces.com/contest/847/problem/C",
+    "submission_id": "CF59594021",
+    "submission_url": "https://codeforces.com/contest/847/submission/59594021",
+    "tags": [
+      "constructive algorithms",
+      "*1800"
+    ],
+    "timestamp": "Aug/28/2019 06:24"
+  },
   "CF59715163": {
     "contest_id": 1213,
     "language": "GNU C++17",
