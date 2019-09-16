@@ -457,6 +457,25 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF60682144": {
+    "contest_id": 1009,
+    "language": "GNU C++17",
+    "path": "codeforces\\1009\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Relatively Prime Graph",
+    "problem_url": "https://codeforces.com/contest/1009/problem/D",
+    "submission_id": "CF60682144",
+    "submission_url": "https://codeforces.com/contest/1009/submission/60682144",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/16/2019 21:15"
+  },
   "CF60682882": {
     "contest_id": 74,
     "language": "GNU C++17",
