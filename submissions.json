@@ -457,6 +457,28 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61171059": {
+    "contest_id": 1229,
+    "language": "GNU C++17",
+    "path": "codeforces\\1229\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Kamil and Making a Stream",
+    "problem_url": "https://codeforces.com/contest/1229/problem/B",
+    "submission_id": "CF61171059",
+    "submission_url": "https://codeforces.com/contest/1229/submission/61171059",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math",
+      "number theory",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Sep/23/2019 23:30"
+  },
   "CF61245133": {
     "contest_id": 10,
     "language": "GNU C++17",
