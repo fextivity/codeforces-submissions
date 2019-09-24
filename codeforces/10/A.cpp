@@ -74,66 +74,43 @@ typedef vector <vll > vvll;
 typedef vector <pii > vpii;
 typedef vector <pll > vpll;
 
-const int N = 1440 + 5, mod = 1e9 + 7, mod1 = 998242353, mod2 = 1e9 + 9, inf = 1e9 + 7;
+const int N = 1e5 + 5, mod = 1e9 + 7, mod1 = 998242353, mod2 = 1e9 + 9, inf = 1e9 + 7;
 const ll infll = 1e18 + 7;
 
-int n, p1, p2, p3, t1, t2, l, r, ans;
-bool a[N];
+int n;
+int p1, p2, p3, t1, t2;
+int ans;
+pii a[N];
 
 signed main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
-    //freopen("POWER.inp", "r", stdin);
-    //freopen("POWER.out", "w", stdout);
-	cin >> n >> p1 >> p2 >> p3 >> t1 >> t2;
-	t2 += t1;
-	ForE(i, 1, n){
-		int x, y;
-		cin >> x >> y;
-		if (i == 1) l = x + 1;
-		if (i == n) r = y;
-		ForE(j, x + 1, y){
-			a[j] = 1;
-		}
-	}
-	int tmp = 0;
-	ForE(i, l, r){
-		if (!a[i]){
-			tmp++;
-		}
-		else{
-			tmp = 0;
-		}
-		if (tmp <= t1){
-			ans += p1;
-		}
-		else if (tmp <= t2){
-			ans += p2;
-		}
-		else{
-			ans += p3;
-		}
-	}
-	cout << ans;
+    cin >> n >> p1 >> p2 >> p3 >> t1 >> t2;
+    ForE(i, 1, n){
+        cin >> a[i].fi >> a[i].se;
+        ans += (a[i].se - a[i].fi) * p1;
+    }
+    ForE(i, 2, n){
+        int k = a[i].fi - a[i - 1].se;
+        ans += min(k, t1) * p1;
+        k -= min(k, t1);
+        ans += min(k, t2) * p2;
+        k -= min(k, t2);
+        ans += k * p3;
+    }
+    cout << ans;
 }
 
 /*
 ==================================+
 INPUT:                            |
 ------------------------------    |
-1 3 2 1 5 10
-0 10
-------------------------------    |
-2 8 4 2 5 10
-20 30
-50 100
+
 ------------------------------    |
 ==================================+
 OUTPUT:                           |
 ------------------------------    |
-30
-------------------------------    |
-570
+
 ------------------------------    |
 ==================================+
 */
