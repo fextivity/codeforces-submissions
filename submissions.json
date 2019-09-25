@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61294125": {
+    "contest_id": 25,
+    "language": "GNU C++17",
+    "path": "codeforces\\25\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Phone numbers",
+    "problem_url": "https://codeforces.com/contest/25/problem/B",
+    "submission_id": "CF61294125",
+    "submission_url": "https://codeforces.com/contest/25/submission/61294125",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/26/2019 06:13"
+  },
   "CF61294201": {
     "contest_id": 35,
     "language": "GNU C++17",
