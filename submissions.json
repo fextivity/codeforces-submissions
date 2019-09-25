@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61294341": {
+    "contest_id": 46,
+    "language": "GNU C++17",
+    "path": "codeforces\\46\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "T-shirts from Sponsor",
+    "problem_url": "https://codeforces.com/contest/46/problem/B",
+    "submission_id": "CF61294341",
+    "submission_url": "https://codeforces.com/contest/46/submission/61294341",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Sep/26/2019 06:26"
+  },
   "CF61294448": {
     "contest_id": 63,
     "language": "GNU C++17",
