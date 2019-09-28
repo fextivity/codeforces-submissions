@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61432142": {
+    "contest_id": 110,
+    "language": "GNU C++17",
+    "path": "codeforces\\110\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Lucky String",
+    "problem_url": "https://codeforces.com/contest/110/problem/B",
+    "submission_id": "CF61432142",
+    "submission_url": "https://codeforces.com/contest/110/submission/61432142",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Sep/28/2019 22:08"
+  },
   "CF61432704": {
     "contest_id": 120,
     "language": "GNU C++17",
