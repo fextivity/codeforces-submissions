@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61707518": {
+    "contest_id": 322,
+    "language": "GNU C++17",
+    "path": "codeforces\\322\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Ciel and Dancing",
+    "problem_url": "https://codeforces.com/contest/322/problem/A",
+    "submission_id": "CF61707518",
+    "submission_url": "https://codeforces.com/contest/322/submission/61707518",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Oct/02/2019 17:35"
+  },
   "CF61708185": {
     "contest_id": 336,
     "language": "GNU C++17",
