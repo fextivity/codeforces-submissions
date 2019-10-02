@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61744404": {
+    "contest_id": 652,
+    "language": "GNU C++17",
+    "path": "codeforces\\652\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "z-sort",
+    "problem_url": "https://codeforces.com/contest/652/problem/B",
+    "submission_id": "CF61744404",
+    "submission_url": "https://codeforces.com/contest/652/submission/61744404",
+    "tags": [
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Oct/03/2019 05:36"
+  },
   "CF61744602": {
     "contest_id": 368,
     "language": "GNU C++17",
