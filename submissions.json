@@ -457,6 +457,21 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61706938": {
+    "contest_id": 302,
+    "language": "GNU C++17",
+    "path": "codeforces\\302\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Eugeny and Array",
+    "problem_url": "https://codeforces.com/contest/302/problem/A",
+    "submission_id": "CF61706938",
+    "submission_url": "https://codeforces.com/contest/302/submission/61706938",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/02/2019 17:24"
+  },
   "CF61707518": {
     "contest_id": 322,
     "language": "GNU C++17",
