@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF61807301": {
+    "contest_id": 955,
+    "language": "GNU C++17",
+    "path": "codeforces\\955\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Feed the cat",
+    "problem_url": "https://codeforces.com/contest/955/problem/A",
+    "submission_id": "CF61807301",
+    "submission_url": "https://codeforces.com/contest/955/submission/61807301",
+    "tags": [
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Oct/04/2019 05:40"
+  },
   "CF61807806": {
     "contest_id": 938,
     "language": "GNU C++17",
