@@ -457,6 +457,22 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF62787661": {
+    "contest_id": 1236,
+    "language": "GNU C++17",
+    "path": "codeforces\\1236\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Alice and the List of Presents",
+    "problem_url": "https://codeforces.com/contest/1236/problem/B",
+    "submission_id": "CF62787661",
+    "submission_url": "https://codeforces.com/contest/1236/submission/62787661",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Oct/17/2019 20:44"
+  },
   "CF62790600": {
     "contest_id": 1236,
     "language": "GNU C++17",
