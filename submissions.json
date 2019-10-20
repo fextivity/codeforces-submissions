@@ -457,6 +457,23 @@
     ],
     "timestamp": "Dec/22/2020 22:39"
   },
+  "CF63023961": {
+    "contest_id": 1248,
+    "language": "GNU C++17",
+    "path": "codeforces\\1248\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Grow The Tree",
+    "problem_url": "https://codeforces.com/contest/1248/problem/B",
+    "submission_id": "CF63023961",
+    "submission_url": "https://codeforces.com/contest/1248/submission/63023961",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Oct/20/2019 22:35"
+  },
   "CF63024212": {
     "contest_id": 1221,
     "language": "GNU C++17",
