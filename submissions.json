@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70487020": {
+    "contest_id": 255,
+    "language": "GNU C++17",
+    "path": "codeforces\\255\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Furlo and Rublo and Game",
+    "problem_url": "https://codeforces.com/contest/255/problem/E",
+    "submission_id": "CF70487020",
+    "submission_url": "https://codeforces.com/contest/255/submission/70487020",
+    "tags": [
+      "games",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Feb/07/2020 14:45"
+  },
   "CF70487084": {
     "contest_id": 303,
     "language": "GNU C++17",
