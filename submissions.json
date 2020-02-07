@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70487345": {
+    "contest_id": 620,
+    "language": "GNU C++17",
+    "path": "codeforces\\620\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "New Year Tree",
+    "problem_url": "https://codeforces.com/contest/620/problem/E",
+    "submission_id": "CF70487345",
+    "submission_url": "https://codeforces.com/contest/620/submission/70487345",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Feb/07/2020 14:52"
+  },
   "CF70487828": {
     "contest_id": 626,
     "language": "GNU C++17",
