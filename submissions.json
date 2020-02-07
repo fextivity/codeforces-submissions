@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70486893": {
+    "contest_id": 118,
+    "language": "GNU C++17",
+    "path": "codeforces\\118\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Bertown roads",
+    "problem_url": "https://codeforces.com/contest/118/problem/E",
+    "submission_id": "CF70486893",
+    "submission_url": "https://codeforces.com/contest/118/submission/70486893",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2000"
+    ],
+    "timestamp": "Feb/07/2020 14:43"
+  },
   "CF70486936": {
     "contest_id": 148,
     "language": "GNU C++17",
