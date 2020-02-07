@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70494788": {
+    "contest_id": 979,
+    "language": "GNU C++17",
+    "path": "codeforces\\979\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Kuro and Topological Parity",
+    "problem_url": "https://codeforces.com/contest/979/problem/E",
+    "submission_id": "CF70494788",
+    "submission_url": "https://codeforces.com/contest/979/submission/70494788",
+    "tags": [
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "Feb/07/2020 17:12"
+  },
   "CF70494842": {
     "contest_id": 981,
     "language": "GNU C++17",
