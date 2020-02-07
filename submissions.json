@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70494638": {
+    "contest_id": 839,
+    "language": "GNU C++17",
+    "path": "codeforces\\839\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Winter is here",
+    "problem_url": "https://codeforces.com/contest/839/problem/D",
+    "submission_id": "CF70494638",
+    "submission_url": "https://codeforces.com/contest/839/submission/70494638",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Feb/07/2020 17:10"
+  },
   "CF70494668": {
     "contest_id": 855,
     "language": "GNU C++17",
