@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70494728": {
+    "contest_id": 932,
+    "language": "GNU C++17",
+    "path": "codeforces\\932\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Team Work",
+    "problem_url": "https://codeforces.com/contest/932/problem/E",
+    "submission_id": "CF70494728",
+    "submission_url": "https://codeforces.com/contest/932/submission/70494728",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Feb/07/2020 17:11"
+  },
   "CF70494763": {
     "contest_id": 975,
     "language": "GNU C++17",
