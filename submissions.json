@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70494547": {
+    "contest_id": 811,
+    "language": "GNU C++17",
+    "path": "codeforces\\811\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Vladik and Complicated Book",
+    "problem_url": "https://codeforces.com/contest/811/problem/B",
+    "submission_id": "CF70494547",
+    "submission_url": "https://codeforces.com/contest/811/submission/70494547",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Feb/07/2020 17:07"
+  },
   "CF70494638": {
     "contest_id": 839,
     "language": "GNU C++17",
