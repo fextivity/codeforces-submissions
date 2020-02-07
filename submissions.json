@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70493539": {
+    "contest_id": 685,
+    "language": "GNU C++17",
+    "path": "codeforces\\685\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Robbers' watch",
+    "problem_url": "https://codeforces.com/contest/685/problem/A",
+    "submission_id": "CF70493539",
+    "submission_url": "https://codeforces.com/contest/685/submission/70493539",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Feb/07/2020 16:49"
+  },
   "CF70493562": {
     "contest_id": 685,
     "language": "GNU C++17",
