@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70494876": {
+    "contest_id": 981,
+    "language": "GNU C++17",
+    "path": "codeforces\\981\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Addition on Segments",
+    "problem_url": "https://codeforces.com/contest/981/problem/E",
+    "submission_id": "CF70494876",
+    "submission_url": "https://codeforces.com/contest/981/submission/70494876",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Feb/07/2020 17:14"
+  },
   "CF70494910": {
     "contest_id": 993,
     "language": "GNU C++17",
