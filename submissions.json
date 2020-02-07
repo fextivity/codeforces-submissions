@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70495615": {
+    "contest_id": 1169,
+    "language": "GNU C++17",
+    "path": "codeforces\\1169\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "And Reachability",
+    "problem_url": "https://codeforces.com/contest/1169/problem/E",
+    "submission_id": "CF70495615",
+    "submission_url": "https://codeforces.com/contest/1169/submission/70495615",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Feb/07/2020 17:28"
+  },
   "CF70495720": {
     "contest_id": 1184,
     "language": "GNU C++17",
