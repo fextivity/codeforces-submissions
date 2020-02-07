@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70493505": {
+    "contest_id": 630,
+    "language": "GNU C++17",
+    "path": "codeforces\\630\\Q.cpp",
+    "problem_index": "Q",
+    "problem_name": "Pyramids",
+    "problem_url": "https://codeforces.com/contest/630/problem/Q",
+    "submission_id": "CF70493505",
+    "submission_url": "https://codeforces.com/contest/630/submission/70493505",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Feb/07/2020 16:48"
+  },
   "CF70493539": {
     "contest_id": 685,
     "language": "GNU C++17",
