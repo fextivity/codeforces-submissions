@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70599596": {
+    "contest_id": 21,
+    "language": "GNU C++17",
+    "path": "codeforces\\21\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Jabber ID",
+    "problem_url": "https://codeforces.com/contest/21/problem/A",
+    "submission_id": "CF70599596",
+    "submission_url": "https://codeforces.com/contest/21/submission/70599596",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Feb/09/2020 10:40"
+  },
   "CF70610163": {
     "contest_id": 13,
     "language": "GNU C++17",
