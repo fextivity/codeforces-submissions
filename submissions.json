@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF70705697": {
+    "contest_id": 26,
+    "language": "GNU C++17",
+    "path": "codeforces\\26\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Parquet",
+    "problem_url": "https://codeforces.com/contest/26/problem/C",
+    "submission_id": "CF70705697",
+    "submission_url": "https://codeforces.com/contest/26/submission/70705697",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Feb/10/2020 12:08"
+  },
   "CF70777253": {
     "contest_id": 718,
     "language": "GNU C++17",
