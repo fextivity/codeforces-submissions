@@ -80,14 +80,10 @@ const ll infll = 1e18 + 7;
 
 int n, m, q;
 char a[N][N];
-int val[N][N];
-int rmq[N][K][N][K];
-
-int cal(int x1, int y1, int x2, int y2){
-    if (x1 > x2 || y1 > y2) return -1;
-	int tx = log2(x2 - x1 + 1), ty = log2(y2 - y1 + 1);
-	return max(max(rmq[x1][tx][y1][ty], rmq[x1][tx][y2 - (1 << ty) + 1][ty]), max(rmq[x2 - (1 << tx) + 1][tx][y1][ty], rmq[x2 - (1 << tx) + 1][tx][y2 - (1 << ty) + 1][ty]));
-}
+short val[N][N];
+// val[i][j] = value at joint of (i,j), (i,j+1), (i+1,j), (i+1,j+1)
+short rmq1[N][N][N], rmq2[N][N][N];
+// rmq1: vertical, rmq2: horixontal
 
 signed main(){
     ios_base::sync_with_stdio(0);
@@ -166,25 +162,19 @@ signed main(){
     //     }
     //     cout << endl;
     // }
-    
     For(i, 1, n){
         For(j, 1, m){
-            rmq[i][0][j][0] = val[i][j];
-        }
-    }
-    For(i, 1, n){
-        For(l, 1, K){
-            For(j, 1, m - (1 << l) + 1){
-                rmq[i][0][j][l] = max(rmq[i][0][j][l - 1], rmq[i][0][j + (1 << (l - 1))][l - 1]);
+            rmq1[i][j][i] = val[i][j];
+            For(k, i + 1, n){
+                rmq1[i][j][k] = max(rmq1[i][j][k - 1], val[k][j]);
             }
         }
     }
-    For(k, 1, K){
-        For(i, 1, n - (1 << k) + 1){
-            For(l, 0, K){
-                For(j, 1, m){
-                    rmq[i][k][j][l] = max(rmq[i][k - 1][j][l], rmq[i + (1 << (k - 1))][k - 1][j][l]);
-                }
+    For(i, 1, n){
+        For(j, 1, m){
+            rmq2[i][j][j] = val[i][j];
+            For(k, j + 1, m){
+                rmq2[i][j][k] = max(rmq2[i][j][k - 1], val[i][k]);
             }
         }
     }
@@ -193,19 +183,13 @@ signed main(){
         cin >> x1 >> y1 >> x2 >> y2; x2--; y2--;
         if (x1 > x2 || y1 > y2){ cout << 0 << endl; continue; }
         int idx = 1;
-        int l = 0, r = min(x2 - x1, y2 - y1) / 2 + 1;
-        while (l < r){
-            int mid = (l + r + 1) >> 1;
-            //cout << mid << ' ' << x1 + mid - 1 << ' ' << y1 + mid - 1 << ' ' << x2 - mid + 1 << ' ' << y2 - mid + 1 << endl;
-            int tmp = cal(x1 + mid - 1, y1 + mid - 1, x2 - mid + 1, y2 - mid + 1);
-            if (tmp >= mid){
-                l = mid;
-            }
-            else{
-                r = mid - 1;
-            }
+        ll ans = 0;
+        while (x1 <= x2 && y1 <= y2){
+            int tmp = max(max(rmq1[x1][y1][x2], rmq2[x1][y1][y2]), max(rmq1[x1][y2][x2], rmq2[x2][y1][y2]));
+            ans = max(ans, (ll)min((ll)tmp, (ll)idx));
+            idx++; x1++; y1++; x2--; y2--;
         }
-        cout << (ll)l * l * 4ll << endl;
+        cout << ans * ans * 4ll << endl;
     }
 }
 
