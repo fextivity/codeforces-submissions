@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF71052386": {
+    "contest_id": 1301,
+    "language": "GNU C++17",
+    "path": "codeforces\\1301\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Nanosoft",
+    "problem_url": "https://codeforces.com/contest/1301/problem/E",
+    "submission_id": "CF71052386",
+    "submission_url": "https://codeforces.com/contest/1301/submission/71052386",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "Feb/14/2020 17:26"
+  },
   "CF71108513": {
     "contest_id": 356,
     "language": "GNU C++17",
