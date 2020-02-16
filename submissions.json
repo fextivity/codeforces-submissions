@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF71208475": {
+    "contest_id": 711,
+    "language": "GNU C++17",
+    "path": "codeforces\\711\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Coloring Trees",
+    "problem_url": "https://codeforces.com/contest/711/problem/C",
+    "submission_id": "CF71208475",
+    "submission_url": "https://codeforces.com/contest/711/submission/71208475",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Feb/16/2020 15:28"
+  },
   "CF71215866": {
     "contest_id": 682,
     "language": "GNU C++17",
