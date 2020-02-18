@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF71378112": {
+    "contest_id": 35,
+    "language": "GNU C++17",
+    "path": "codeforces\\35\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Animals",
+    "problem_url": "https://codeforces.com/contest/35/problem/D",
+    "submission_id": "CF71378112",
+    "submission_url": "https://codeforces.com/contest/35/submission/71378112",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Feb/18/2020 19:59"
+  },
   "CF71387316": {
     "contest_id": 1181,
     "language": "GNU C++17",
