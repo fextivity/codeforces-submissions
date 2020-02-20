@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF71479227": {
+    "contest_id": 43,
+    "language": "GNU C++17",
+    "path": "codeforces\\43\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Race",
+    "problem_url": "https://codeforces.com/contest/43/problem/E",
+    "submission_id": "CF71479227",
+    "submission_url": "https://codeforces.com/contest/43/submission/71479227",
+    "tags": [
+      "brute force",
+      "implementation",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "Feb/20/2020 14:41"
+  },
   "CF71481648": {
     "contest_id": 44,
     "language": "GNU C++17",
