@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF71482925": {
+    "contest_id": 44,
+    "language": "GNU C++17",
+    "path": "codeforces\\44\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Holidays",
+    "problem_url": "https://codeforces.com/contest/44/problem/C",
+    "submission_id": "CF71482925",
+    "submission_url": "https://codeforces.com/contest/44/submission/71482925",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Feb/20/2020 16:06"
+  },
   "CF71494438": {
     "contest_id": 44,
     "language": "GNU C++17",
