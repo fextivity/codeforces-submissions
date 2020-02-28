@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF72034713": {
+    "contest_id": 160,
+    "language": "GNU C++17",
+    "path": "codeforces\\160\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Find Pair",
+    "problem_url": "https://codeforces.com/contest/160/problem/C",
+    "submission_id": "CF72034713",
+    "submission_url": "https://codeforces.com/contest/160/submission/72034713",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Feb/28/2020 19:23"
+  },
   "CF72035621": {
     "contest_id": 908,
     "language": "GNU C++17",
