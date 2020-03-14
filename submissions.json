@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF73205013": {
+    "contest_id": 6,
+    "language": "GNU C++11",
+    "path": "codeforces\\6\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "President's Office",
+    "problem_url": "https://codeforces.com/contest/6/problem/B",
+    "submission_id": "CF73205013",
+    "submission_url": "https://codeforces.com/contest/6/submission/73205013",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/14/2020 17:20"
+  },
   "CF73454151": {
     "contest_id": 467,
     "language": "GNU C++11",
