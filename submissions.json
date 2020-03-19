@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF73631535": {
+    "contest_id": 452,
+    "language": "GNU C++11",
+    "path": "codeforces\\452\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Magic Trick",
+    "problem_url": "https://codeforces.com/contest/452/problem/C",
+    "submission_id": "CF73631535",
+    "submission_url": "https://codeforces.com/contest/452/submission/73631535",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*2100"
+    ],
+    "timestamp": "Mar/19/2020 14:28"
+  },
   "CF73633512": {
     "contest_id": 351,
     "language": "GNU C++11",
