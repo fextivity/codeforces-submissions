@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF73791763": {
+    "contest_id": 1151,
+    "language": "GNU C++11",
+    "path": "codeforces\\1151\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Number of Components",
+    "problem_url": "https://codeforces.com/contest/1151/problem/E",
+    "submission_id": "CF73791763",
+    "submission_url": "https://codeforces.com/contest/1151/submission/73791763",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Mar/20/2020 19:30"
+  },
   "CF73806754": {
     "contest_id": 1254,
     "language": "GNU C++11",
