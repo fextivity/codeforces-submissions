@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF73853073": {
+    "contest_id": 667,
+    "language": "GNU C++11",
+    "path": "codeforces\\667\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Pouring Rain",
+    "problem_url": "https://codeforces.com/contest/667/problem/A",
+    "submission_id": "CF73853073",
+    "submission_url": "https://codeforces.com/contest/667/submission/73853073",
+    "tags": [
+      "geometry",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/21/2020 12:26"
+  },
   "CF73853607": {
     "contest_id": 799,
     "language": "GNU C++11",
