@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF73848596": {
+    "contest_id": 1227,
+    "language": "GNU C++11",
+    "path": "codeforces\\1227\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Math Problem",
+    "problem_url": "https://codeforces.com/contest/1227/problem/A",
+    "submission_id": "CF73848596",
+    "submission_url": "https://codeforces.com/contest/1227/submission/73848596",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/21/2020 10:40"
+  },
   "CF73849030": {
     "contest_id": 1234,
     "language": "GNU C++11",
