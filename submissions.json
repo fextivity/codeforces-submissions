@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74163442": {
+    "contest_id": 592,
+    "language": "GNU C++11",
+    "path": "codeforces\\592\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "The Monster and the Squirrel",
+    "problem_url": "https://codeforces.com/contest/592/problem/B",
+    "submission_id": "CF74163442",
+    "submission_url": "https://codeforces.com/contest/592/submission/74163442",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/24/2020 12:17"
+  },
   "CF74163754": {
     "contest_id": 633,
     "language": "GNU C++11",
