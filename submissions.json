@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74271841": {
+    "contest_id": 495,
+    "language": "GNU C++11",
+    "path": "codeforces\\495\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Digital Counter",
+    "problem_url": "https://codeforces.com/contest/495/problem/A",
+    "submission_id": "CF74271841",
+    "submission_url": "https://codeforces.com/contest/495/submission/74271841",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/25/2020 16:03"
+  },
   "CF74272465": {
     "contest_id": 401,
     "language": "GNU C++11",
