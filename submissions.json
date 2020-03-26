@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74349136": {
+    "contest_id": 508,
+    "language": "GNU C++11",
+    "path": "codeforces\\508\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Pasha and Pixels",
+    "problem_url": "https://codeforces.com/contest/508/problem/A",
+    "submission_id": "CF74349136",
+    "submission_url": "https://codeforces.com/contest/508/submission/74349136",
+    "tags": [
+      "brute force",
+      "*1100"
+    ],
+    "timestamp": "Mar/26/2020 10:50"
+  },
   "CF74370803": {
     "contest_id": 1292,
     "language": "GNU C++11",
