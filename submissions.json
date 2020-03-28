@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74629609": {
+    "contest_id": 1312,
+    "language": "GNU C++11",
+    "path": "codeforces\\1312\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Count the Arrays",
+    "problem_url": "https://codeforces.com/contest/1312/problem/D",
+    "submission_id": "CF74629609",
+    "submission_url": "https://codeforces.com/contest/1312/submission/74629609",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/28/2020 17:25"
+  },
   "CF74713006": {
     "contest_id": 253,
     "language": "GNU C++11",
