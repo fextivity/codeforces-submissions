@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74733275": {
+    "contest_id": 408,
+    "language": "GNU C++11",
+    "path": "codeforces\\408\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Garland",
+    "problem_url": "https://codeforces.com/contest/408/problem/B",
+    "submission_id": "CF74733275",
+    "submission_url": "https://codeforces.com/contest/408/submission/74733275",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/29/2020 20:11"
+  },
   "CF74781200": {
     "contest_id": 31,
     "language": "GNU C++11",
