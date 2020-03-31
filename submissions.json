@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74904306": {
+    "contest_id": 431,
+    "language": "GNU C++17",
+    "path": "codeforces\\431\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Shower Line",
+    "problem_url": "https://codeforces.com/contest/431/problem/B",
+    "submission_id": "CF74904306",
+    "submission_url": "https://codeforces.com/contest/431/submission/74904306",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/31/2020 16:18"
+  },
   "CF74904702": {
     "contest_id": 1325,
     "language": "GNU C++17",
