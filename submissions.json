@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF74917284": {
+    "contest_id": 740,
+    "language": "GNU C++17",
+    "path": "codeforces\\740\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Alyona and flowers",
+    "problem_url": "https://codeforces.com/contest/740/problem/B",
+    "submission_id": "CF74917284",
+    "submission_url": "https://codeforces.com/contest/740/submission/74917284",
+    "tags": [
+      "constructive algorithms",
+      "*1200"
+    ],
+    "timestamp": "Mar/31/2020 18:45"
+  },
   "CF74918718": {
     "contest_id": 903,
     "language": "GNU C++17",
