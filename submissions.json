@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF81003702": {
+    "contest_id": 1341,
+    "language": "GNU C++17",
+    "path": "codeforces\\1341\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Nastya and Rice",
+    "problem_url": "https://codeforces.com/contest/1341/problem/A",
+    "submission_id": "CF81003702",
+    "submission_url": "https://codeforces.com/contest/1341/submission/81003702",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/23/2020 17:05"
+  },
   "CF81003713": {
     "contest_id": 1341,
     "language": "GNU C++17",
