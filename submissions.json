@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82023386": {
+    "contest_id": 125,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\125\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Simple XML",
+    "problem_url": "https://codeforces.com/contest/125/problem/B",
+    "submission_id": "CF82023386",
+    "submission_url": "https://codeforces.com/contest/125/submission/82023386",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/31/2020 15:32"
+  },
   "CF82023760": {
     "contest_id": 1056,
     "language": "GNU C++17 (64)",
