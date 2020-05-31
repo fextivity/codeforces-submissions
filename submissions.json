@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82011355": {
+    "contest_id": 644,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\644\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Parliament of Berland",
+    "problem_url": "https://codeforces.com/contest/644/problem/A",
+    "submission_id": "CF82011355",
+    "submission_url": "https://codeforces.com/contest/644/submission/82011355",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "May/31/2020 12:22"
+  },
   "CF82013086": {
     "contest_id": 637,
     "language": "GNU C++17 (64)",
