@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82022775": {
+    "contest_id": 491,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\491\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Up the hill",
+    "problem_url": "https://codeforces.com/contest/491/problem/A",
+    "submission_id": "CF82022775",
+    "submission_url": "https://codeforces.com/contest/491/submission/82022775",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/31/2020 15:22"
+  },
   "CF82023386": {
     "contest_id": 125,
     "language": "GNU C++17 (64)",
