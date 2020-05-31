@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82027696": {
+    "contest_id": 624,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\624\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Making a String",
+    "problem_url": "https://codeforces.com/contest/624/problem/B",
+    "submission_id": "CF82027696",
+    "submission_url": "https://codeforces.com/contest/624/submission/82027696",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/31/2020 16:37"
+  },
   "CF82028764": {
     "contest_id": 629,
     "language": "GNU C++17 (64)",
