@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82026967": {
+    "contest_id": 754,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\754\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Ilya and tic-tac-toe game",
+    "problem_url": "https://codeforces.com/contest/754/problem/B",
+    "submission_id": "CF82026967",
+    "submission_url": "https://codeforces.com/contest/754/submission/82026967",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/31/2020 16:25"
+  },
   "CF82027696": {
     "contest_id": 624,
     "language": "GNU C++17 (64)",
