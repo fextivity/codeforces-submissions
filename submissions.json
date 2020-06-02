@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82304336": {
+    "contest_id": 1111,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1111\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Average Superhero Gang Power ",
+    "problem_url": "https://codeforces.com/contest/1111/problem/B",
+    "submission_id": "CF82304336",
+    "submission_url": "https://codeforces.com/contest/1111/submission/82304336",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/02/2020 19:03"
+  },
   "CF82305568": {
     "contest_id": 442,
     "language": "GNU C++17 (64)",
