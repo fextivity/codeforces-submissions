@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF82372640": {
+    "contest_id": 70,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\70\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Cookies",
+    "problem_url": "https://codeforces.com/contest/70/problem/A",
+    "submission_id": "CF82372640",
+    "submission_url": "https://codeforces.com/contest/70/submission/82372640",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/03/2020 14:43"
+  },
   "CF82456274": {
     "contest_id": 1009,
     "language": "GNU C++17 (64)",
