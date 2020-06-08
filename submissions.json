@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF83123567": {
+    "contest_id": 627,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\627\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Factory Repairs",
+    "problem_url": "https://codeforces.com/contest/627/problem/B",
+    "submission_id": "CF83123567",
+    "submission_url": "https://codeforces.com/contest/627/submission/83123567",
+    "tags": [
+      "data structures",
+      "*1700"
+    ],
+    "timestamp": "Jun/08/2020 17:16"
+  },
   "CF83133027": {
     "contest_id": 449,
     "language": "GNU C++17 (64)",
