@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF83221145": {
+    "contest_id": 734,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\734\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Anton and Chess",
+    "problem_url": "https://codeforces.com/contest/734/problem/D",
+    "submission_id": "CF83221145",
+    "submission_url": "https://codeforces.com/contest/734/submission/83221145",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jun/09/2020 20:08"
+  },
   "CF83222176": {
     "contest_id": 789,
     "language": "GNU C++17 (64)",
