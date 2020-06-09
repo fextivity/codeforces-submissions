@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF83222176": {
+    "contest_id": 789,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\789\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Masha and geometric depression",
+    "problem_url": "https://codeforces.com/contest/789/problem/B",
+    "submission_id": "CF83222176",
+    "submission_url": "https://codeforces.com/contest/789/submission/83222176",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/09/2020 20:21"
+  },
   "CF83345075": {
     "contest_id": 915,
     "language": "GNU C++17 (64)",
