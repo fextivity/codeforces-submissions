@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF86135935": {
+    "contest_id": 729,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\729\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Spotlights",
+    "problem_url": "https://codeforces.com/contest/729/problem/B",
+    "submission_id": "CF86135935",
+    "submission_url": "https://codeforces.com/contest/729/submission/86135935",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/06/2020 22:03"
+  },
   "CF86138288": {
     "contest_id": 1354,
     "language": "GNU C++17 (64)",
