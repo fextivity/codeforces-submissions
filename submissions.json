@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF86132047": {
+    "contest_id": 730,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\730\\J.cpp",
+    "problem_index": "J",
+    "problem_name": "Bottles",
+    "problem_url": "https://codeforces.com/contest/730/problem/J",
+    "submission_id": "CF86132047",
+    "submission_url": "https://codeforces.com/contest/730/submission/86132047",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Jul/06/2020 21:15"
+  },
   "CF86134551": {
     "contest_id": 1285,
     "language": "GNU C++17 (64)",
