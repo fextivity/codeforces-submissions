@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF86167703": {
+    "contest_id": 44,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\44\\H.cpp",
+    "problem_index": "H",
+    "problem_name": "Phone Number",
+    "problem_url": "https://codeforces.com/contest/44/problem/H",
+    "submission_id": "CF86167703",
+    "submission_url": "https://codeforces.com/contest/44/submission/86167703",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Jul/07/2020 10:43"
+  },
   "CF86168673": {
     "contest_id": 718,
     "language": "GNU C++17 (64)",
