@@ -11,7 +11,7 @@ using namespace __gnu_pbds;
 
 // Shortcut
 
-#define int long long
+// #define int long long
 #define eb emplace_back
 #define pb push_back
 #define pob pop_back
