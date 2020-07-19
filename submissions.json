@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF87368931": {
+    "contest_id": 1371,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1371\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Magical Sticks",
+    "problem_url": "https://codeforces.com/contest/1371/problem/A",
+    "submission_id": "CF87368931",
+    "submission_url": "https://codeforces.com/contest/1371/submission/87368931",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/19/2020 22:46"
+  },
   "CF87368958": {
     "contest_id": 1370,
     "language": "GNU C++17 (64)",
