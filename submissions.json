@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF87397520": {
+    "contest_id": 67,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\67\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Optical Experiment",
+    "problem_url": "https://codeforces.com/contest/67/problem/D",
+    "submission_id": "CF87397520",
+    "submission_url": "https://codeforces.com/contest/67/submission/87397520",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Jul/20/2020 11:28"
+  },
   "CF87398207": {
     "contest_id": 374,
     "language": "GNU C++17 (64)",
