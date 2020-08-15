@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF90009642": {
+    "contest_id": 1110,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1110\\F.cpp",
+    "problem_index": "F",
+    "problem_name": "Nearest Leaf",
+    "problem_url": "https://codeforces.com/contest/1110/problem/F",
+    "submission_id": "CF90009642",
+    "submission_url": "https://codeforces.com/contest/1110/submission/90009642",
+    "tags": [
+      "data structures",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "Aug/15/2020 17:20"
+  },
   "CF90024947": {
     "contest_id": 553,
     "language": "GNU C++17 (64)",
