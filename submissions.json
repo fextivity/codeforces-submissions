@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF90290428": {
+    "contest_id": 60,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\60\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Where Are My Flakes?",
+    "problem_url": "https://codeforces.com/contest/60/problem/A",
+    "submission_id": "CF90290428",
+    "submission_url": "https://codeforces.com/contest/60/submission/90290428",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Aug/18/2020 15:31"
+  },
   "CF90290705": {
     "contest_id": 940,
     "language": "GNU C++17 (64)",
