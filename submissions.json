@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF90292267": {
+    "contest_id": 719,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\719\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Anatoly and Cockroaches",
+    "problem_url": "https://codeforces.com/contest/719/problem/B",
+    "submission_id": "CF90292267",
+    "submission_url": "https://codeforces.com/contest/719/submission/90292267",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Aug/18/2020 15:59"
+  },
   "CF90467295": {
     "contest_id": 600,
     "language": "GNU C++17 (64)",
