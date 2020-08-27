@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF91143337": {
+    "contest_id": 91,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\91\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Newspaper Headline",
+    "problem_url": "https://codeforces.com/contest/91/problem/A",
+    "submission_id": "CF91143337",
+    "submission_url": "https://codeforces.com/contest/91/submission/91143337",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Aug/27/2020 21:52"
+  },
   "CF91145590": {
     "contest_id": 923,
     "language": "GNU C++17 (64)",
