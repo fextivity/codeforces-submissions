@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF92511581": {
+    "contest_id": 164,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\164\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Ancient Berland Hieroglyphs",
+    "problem_url": "https://codeforces.com/contest/164/problem/B",
+    "submission_id": "CF92511581",
+    "submission_url": "https://codeforces.com/contest/164/submission/92511581",
+    "tags": [
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Sep/11/2020 22:34"
+  },
   "CF92873151": {
     "contest_id": 832,
     "language": "GNU C++17 (64)",
