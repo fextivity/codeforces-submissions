@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF92873151": {
+    "contest_id": 832,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\832\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Misha, Grisha and Underground",
+    "problem_url": "https://codeforces.com/contest/832/problem/D",
+    "submission_id": "CF92873151",
+    "submission_url": "https://codeforces.com/contest/832/submission/92873151",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Sep/15/2020 12:15"
+  },
   "CF92873882": {
     "contest_id": 439,
     "language": "GNU C++17 (64)",
