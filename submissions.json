@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF94219939": {
+    "contest_id": 1418,
+    "language": "PyPy 3",
+    "path": "codeforces\\1418\\G.py",
+    "problem_index": "G",
+    "problem_name": "Three Occurrences",
+    "problem_url": "https://codeforces.com/contest/1418/problem/G",
+    "submission_id": "CF94219939",
+    "submission_url": "https://codeforces.com/contest/1418/submission/94219939",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "Sep/29/2020 21:34"
+  },
   "CF94266399": {
     "contest_id": 542,
     "language": "GNU C++17 (64)",
