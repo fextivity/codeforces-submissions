@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF94266399": {
+    "contest_id": 542,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\542\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Playing on Graph",
+    "problem_url": "https://codeforces.com/contest/542/problem/E",
+    "submission_id": "CF94266399",
+    "submission_url": "https://codeforces.com/contest/542/submission/94266399",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "Sep/30/2020 13:45"
+  },
   "CF94298735": {
     "contest_id": 1408,
     "language": "GNU C++17 (64)",
