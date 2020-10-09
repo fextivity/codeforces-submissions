@@ -441,6 +441,22 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF94972283": {
+    "contest_id": 916,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\916\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Jamie and Tree",
+    "problem_url": "https://codeforces.com/contest/916/problem/E",
+    "submission_id": "CF94972283",
+    "submission_url": "https://codeforces.com/contest/916/submission/94972283",
+    "tags": [
+      "data structures",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Oct/09/2020 16:11"
+  },
   "CF95092295": {
     "contest_id": 1427,
     "language": "GNU C++17 (64)",
