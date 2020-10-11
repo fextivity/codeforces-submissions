@@ -128,7 +128,7 @@ typedef vector <vll > vvll;
 typedef vector <pii > vpii;
 typedef vector <pll > vpll;
 
-const int N = 1e5 + 5, M = log2(N) + 1, S = sqrt(N) - 200;
+const int N = 1e5 + 5, M = log2(N) + 1, S = sqrt(N) - 100;
 int mod = 1e9 + 7, mod1 = 998244353, mod2 = 1e9 + 9, inf = 1e9 + 7;
 ll infll = 1e18 + 7;
 
