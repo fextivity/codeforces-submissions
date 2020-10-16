@@ -441,6 +441,25 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF95642025": {
+    "contest_id": 1404,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1404\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Game of Pairs",
+    "problem_url": "https://codeforces.com/contest/1404/problem/D",
+    "submission_id": "CF95642025",
+    "submission_url": "https://codeforces.com/contest/1404/submission/95642025",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "math",
+      "number theory",
+      "*2800"
+    ],
+    "timestamp": "Oct/16/2020 14:51"
+  },
   "CF95642044": {
     "contest_id": 1404,
     "language": "GNU C++17 (64)",
