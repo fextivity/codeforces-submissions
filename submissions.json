@@ -441,6 +441,23 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF96815467": {
+    "contest_id": 1004,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1004\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Sonya and Matrix",
+    "problem_url": "https://codeforces.com/contest/1004/problem/D",
+    "submission_id": "CF96815467",
+    "submission_url": "https://codeforces.com/contest/1004/submission/96815467",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "Oct/27/2020 06:06"
+  },
   "CF96836237": {
     "contest_id": 1271,
     "language": "GNU C++17 (64)",
