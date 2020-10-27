@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF96836237": {
+    "contest_id": 1271,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1271\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Common Number",
+    "problem_url": "https://codeforces.com/contest/1271/problem/E",
+    "submission_id": "CF96836237",
+    "submission_url": "https://codeforces.com/contest/1271/submission/96836237",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Oct/27/2020 14:49"
+  },
   "CF97132337": {
     "contest_id": 1044,
     "language": "GNU C++17 (64)",
