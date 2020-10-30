@@ -441,6 +441,21 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF97132337": {
+    "contest_id": 1044,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1044\\F.cpp",
+    "problem_index": "F",
+    "problem_name": "DFS",
+    "problem_url": "https://codeforces.com/contest/1044/problem/F",
+    "submission_id": "CF97132337",
+    "submission_url": "https://codeforces.com/contest/1044/submission/97132337",
+    "tags": [
+      "data structures",
+      "*2700"
+    ],
+    "timestamp": "Oct/30/2020 08:16"
+  },
   "CF97133839": {
     "contest_id": 213,
     "language": "GNU C++17 (64)",
