@@ -441,6 +441,24 @@
     ],
     "timestamp": "Dec/22/2020 14:07"
   },
+  "CF98695515": {
+    "contest_id": 1439,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1439\\A2.cpp",
+    "problem_index": "A2",
+    "problem_name": "Binary Table (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1439/problem/A2",
+    "submission_id": "CF98695515",
+    "submission_url": "https://codeforces.com/contest/1439/submission/98695515",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "Nov/17/2020 21:51"
+  },
   "CF98695644": {
     "contest_id": 1439,
     "language": "GNU C++17 (64)",
