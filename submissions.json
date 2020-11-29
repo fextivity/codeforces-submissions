@@ -440,5 +440,22 @@
       "*2600"
     ],
     "timestamp": "Dec/22/2020 14:07"
+  },
+  "CF99897157": {
+    "contest_id": 1415,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1415\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "New Game Plus!",
+    "problem_url": "https://codeforces.com/contest/1415/problem/E",
+    "submission_id": "CF99897157",
+    "submission_url": "https://codeforces.com/contest/1415/submission/99897157",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Nov/29/2020 18:16"
   }
 }
