@@ -1,4 +1,19 @@
 {
+  "CF101441714": {
+    "contest_id": 41,
+    "language": "GNU C++17",
+    "path": "codeforces\\41\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Pawn",
+    "problem_url": "https://codeforces.com/contest/41/problem/D",
+    "submission_id": "CF101441714",
+    "submission_url": "https://codeforces.com/contest/41/submission/101441714",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "Dec/16/2020 22:34"
+  },
   "CF101482741": {
     "contest_id": 734,
     "language": "GNU C++17 (64)",
