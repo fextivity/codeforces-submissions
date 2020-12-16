@@ -1,4 +1,21 @@
 {
+  "CF101401763": {
+    "contest_id": 1197,
+    "language": "GNU C++17",
+    "path": "codeforces\\1197\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Yet Another Subarray Problem",
+    "problem_url": "https://codeforces.com/contest/1197/problem/D",
+    "submission_id": "CF101401763",
+    "submission_url": "https://codeforces.com/contest/1197/submission/101401763",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Dec/16/2020 15:55"
+  },
   "CF101436857": {
     "contest_id": 1031,
     "language": "GNU C++17",
