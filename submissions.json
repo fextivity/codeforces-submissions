@@ -1,0 +1,17 @@
+{
+  "CF102019652": {
+    "contest_id": 3,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\3\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Least Cost Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/3/problem/D",
+    "submission_id": "CF102019652",
+    "submission_url": "https://codeforces.com/contest/3/submission/102019652",
+    "tags": [
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "Dec/22/2020 14:07"
+  }
+}
